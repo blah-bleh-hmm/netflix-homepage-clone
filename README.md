@@ -20,7 +20,7 @@ A responsive Netflix-style landing page cloned using **HTML**, **CSS**, and a bi
 
 ## 🎥 Demo
 
-\[[Insert Demo GIF or live demo link here once deployed](https://blah-bleh-hmm.github.io/netflix-homepage-clone/)]
+\[[live demo link](https://blah-bleh-hmm.github.io/netflix-homepage-clone/)]
 
 ---
 
